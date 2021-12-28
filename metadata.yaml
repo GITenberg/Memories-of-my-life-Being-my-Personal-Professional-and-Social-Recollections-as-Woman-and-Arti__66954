@@ -1,5 +1,8 @@
 _repo: Memories-of-my-life-Being-my-Personal-Professional-and-Social-Recollections-as-Woman-and-Arti__66954
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66954-h/images/cover.jpg
 creator:
   author:
     agent_name: Bernhardt, Sarah
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Sarah_Bernhardt
     - https://fr.wikipedia.org/wiki/Sarah_Bernhardt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66954#Memories-of-my-life-Being-my-Personal-Professional-and-Social-Recollections-as-Woman-and-Arti_
 gutenberg_issued: '2021-12-16'
 identifiers:
   gutenberg: '66954'
